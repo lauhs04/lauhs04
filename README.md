@@ -1,1 +1,3 @@
 Junior web developer with knowledge of HTML5, CSS3 and JavaScript. Projected to continuous learning, I am always willing to learn new things and improve my skills to evolve every day as a professional and offer the best version of myself to the company where I work. I love challenges, if I don't know how to solve something, I will investigate to make it happen! This is my presentation, my welcome message, and if you are interested in contacting me, I invite you to do so and I assure you that if what you need is a professional willing to give 100%, you have reached the right profile.
+
+LinkedIn|https://www.linkedin.com/in/lauhs04/ Twitter|https://twitter.com/lauhs04
